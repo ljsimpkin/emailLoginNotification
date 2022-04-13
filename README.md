@@ -3,7 +3,7 @@ Notifies you when your computer is logged in.
 
 # Aim 
 
-The aim of this project is to learn how to send emails from the command line. This can be tremendously useful for automating large email campaigns and, in this case, sending yourself personalised notifications. Say you want to notify yourself when your computer is logged in, check how your stock portfolio is doing, summarise news from a variety of sources, or tell yourself how cool you are! All these things can be automated and sent to your email inbox whenever you like. This project will focus on sending yourself a login notification.
+The aim of this project is to learn how to send emails from the command line. This can be tremendously useful for automating large email campaigns and, in this case, sending yourself personalised notifications. Say you want to notify yourself when your computer is logged in, check how your stock portfolio is doing, summarise news from a variety of sources, or tell yourself how cool you are! All these things can be automated and sent to your email inbox whenever you like. This project will focus on sending a login notification.
 
 ![image of email notification](./img/emailNotification.jpg)
 
