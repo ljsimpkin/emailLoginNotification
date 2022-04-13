@@ -38,8 +38,8 @@ You can use gmail accounts and other smtp email accounts but I found Yahoo email
 
 # More cool things to try
 
-Take a photo of the person who logged in and attach that to the email.
-Detect the person’s face, if it’s you, bypass the above step
+1. Take a photo of the person who logged in and attach that to the email.
+2. Detect the person’s face, if it’s you, bypass the above step
 https://github.com/ageitgey/face_recognition is an easy way to do face recognition
 
 # Thanks to realpython for making this simple tutorial
