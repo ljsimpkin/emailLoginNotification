@@ -19,7 +19,7 @@ For this you will need to have:
 
 Follow these steps to get started
 
-1. Create a Yahoo email account. 
+1. Create a Yahoo email account
 2. Open the terminal, clone this repo, and cd into it
 3. `echo “passwords.py” > .gitignore`
 4. In your Yahoo email, goto your Yahoo Account Security page, Click Generate app password
