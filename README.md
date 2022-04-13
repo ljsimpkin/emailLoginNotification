@@ -13,7 +13,7 @@ For this you will need to have:
 
 1. Python3
 2. A Yahoo email account
-3. Be running Linux or Mac
+3. Linux or Mac
 
 # Steps
 
