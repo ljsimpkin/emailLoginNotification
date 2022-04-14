@@ -44,6 +44,6 @@ You can use gmail accounts and other smtp email accounts but I found Yahoo email
 \https://github.com/ageitgey/face_recognition is an easy way to do face recognition
 
 # Thanks to realpython for making this simple tutorial
-https://realpython.com/python-send-email/#option-1-setting-up-a-gmail-account-for-development
+https://realpython.com/python-send-email
 
 
