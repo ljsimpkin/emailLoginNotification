@@ -8,7 +8,6 @@ sender_email = "liam_simpkin@yahoo.com"
 receiver_email = "liam_simpkin@yahoo.com"
 message = """\
 Subject: Epic login notification
-
 Your macbook pro loged in at """ + str(datetime.datetime.now())
 
 # Create a secure SSL context
@@ -20,3 +19,4 @@ try :
       print("Email sent!")
 except:
   print ('can\'t send the Email')
+  
