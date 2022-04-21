@@ -29,6 +29,21 @@ And there you go, you should receive an email from your terminal in a couple of 
 For automating this script every time you login, follow these instructions below they’re great:
 https://stackoverflow.com/questions/6442364/running-script-upon-login-mac
 
+# Version 2
+
+Updated repo with takePhoto.py and envelopeEmail.py
+Together they take a photo and then email the attachments.
+
+# Requirements 2
+
+OpenCV
+Envelopes
+
+# Steps
+
+`python3 takePhoto.py`
+`python3 sendPhoto.py`
+
 
 # Further notes:
 
@@ -38,12 +53,16 @@ You can use gmail accounts and other smtp email accounts but I found Yahoo email
 
 # More cool things to try
 
-1. Take a photo of the person who logged in and attach that to the email.
+1. Take a photo of the person who logged in and attach that to the email. ✅
 2. Detect the person’s face, if it’s you, bypass the above step\
 
 \https://github.com/ageitgey/face_recognition is an easy way to do face recognition
 
 # Thanks to realpython for making this simple tutorial
 https://realpython.com/python-send-email/#option-1-setting-up-a-gmail-account-for-development
+
+# Checkout Envelopes to simplify sending attachments
+https://github.com/tomekwojcik/envelopes
+
 
 
