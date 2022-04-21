@@ -41,8 +41,8 @@ OpenCV
 
 # Steps
 
-`python3 takePhoto.py`
-`python3 sendPhoto.py`
+1. `python3 takePhoto.py`
+2. `python3 sendPhoto.py`
 
 # Further notes:
 
