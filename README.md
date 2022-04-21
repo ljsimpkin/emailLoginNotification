@@ -34,7 +34,7 @@ https://stackoverflow.com/questions/6442364/running-script-upon-login-mac
 Updated repo with takePhoto.py and envelopeEmail.py
 Together they take a photo and then email the attachments.
 
-# Requirements 2
+# Requirements
 
 OpenCV
 [Envelopes]("https://github.com/tomekwojcik/envelopes)
