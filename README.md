@@ -53,13 +53,18 @@ You can use gmail accounts and other smtp email accounts but I found Yahoo email
 
 # More cool things to try
 
+<<<<<<< HEAD
 1. Take a photo of the person who logged in and attach that to the email. ✅
 2. Detect the person’s face, if it’s you, bypass the above step\
+=======
+1. Take a photo of the person who logged in and attach that to the email.
+2. Detect the person’s face, if it’s you, bypass the above step
+>>>>>>> 43f0a582d57573b4745afc2345f3d532291aabd4
 
-\https://github.com/ageitgey/face_recognition is an easy way to do face recognition
+https://github.com/ageitgey/face_recognition is an easy way to do face recognition
 
 # Thanks to realpython for making this simple tutorial
-https://realpython.com/python-send-email/#option-1-setting-up-a-gmail-account-for-development
+https://realpython.com/python-send-email
 
 # Checkout Envelopes to simplify sending attachments
 https://github.com/tomekwojcik/envelopes
