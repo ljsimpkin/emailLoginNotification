@@ -31,7 +31,7 @@ https://stackoverflow.com/questions/6442364/running-script-upon-login-mac
 
 # Version 2
 
-Updated repo with takePhoto.py and envelopeEmail.py
+Updated repo with takePhoto.py and sendPhoto.py
 Together they take a photo and then email the attachments.
 
 # Requirements
